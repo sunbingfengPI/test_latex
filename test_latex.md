@@ -6,7 +6,7 @@
 
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
-![](http://latex.codecogs.com/gif.latex?\\int_{1}^{2}(f(x))=\\frac{\\partial^2 y}{\\partial x^2})
+![](https://latex.codecogs.com/gif.latex?\int_{a}^{b}f=\frac{\partial&space;y}{\partial&space;x})
 
 ![](http://latex.codecogs.com/gif.latex?\\int_{1}^{2}(f(x%20y)))
 
