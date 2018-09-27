@@ -7,3 +7,5 @@
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 ![](http://latex.codecogs.com/gif.latex?\\int_{1}^{2}(f(x))=\\frac{\\partial^2 y}{\\partial x^2})
+
+![](http://latex.codecogs.com/gif.latex?\\int_{1}^{2}(f(x)))
